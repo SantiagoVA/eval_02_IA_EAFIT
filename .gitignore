@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+*.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Development & temporary working scripts
+build_notebook.py
+PLAN_DE_TRABAJO_PARCIAL2.md
+eval_practica_full_text.txt
+eval_teorica_full_text.txt
+guia_reutilizar_full_text.txt
+*.zip
+*.zip.download
+Generar_embeddings_y_zip.ipynb
+
+# OS generated
+.DS_Store
+.ipynb_checkpoints/

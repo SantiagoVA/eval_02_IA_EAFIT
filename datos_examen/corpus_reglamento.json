@@ -1,0 +1,326 @@
+[
+ {
+  "id": "R-01",
+  "title": "Calidad de estudiante",
+  "content": "La calidad de estudiante se adquiere con la matrícula y se conserva mientras el estudiante renueve su matrícula en cada período académico. Se pierde por graduación, cancelación definitiva, sanción disciplinaria de expulsión o por no renovar la matrícula en el plazo fijado.",
+  "metadata": {
+   "categoria": "general",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-02",
+  "title": "Sistema de Información Académica (SIA)",
+  "content": "El Sistema de Información Académica (SIA) es la plataforma oficial donde el estudiante consulta su horario, inscribe asignaturas, revisa sus calificaciones y descarga certificados. Toda solicitud académica debe quedar registrada en el SIA para tener validez.",
+  "metadata": {
+   "categoria": "plataformas",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-03",
+  "title": "Período de Inscripción y Novedades (PIN)",
+  "content": "El Período de Inscripción y Novedades (PIN) es el plazo establecido en el calendario académico para inscribir, modificar o retirar asignaturas sin costo adicional. Terminado el PIN, las novedades solo proceden por causa justificada y con aprobación del director de programa.",
+  "metadata": {
+   "categoria": "calendario",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-04",
+  "title": "Retiro de asignaturas",
+  "content": "Hasta la octava semana del período, el estudiante puede retirar una asignatura desde el SIA; la asignatura figurará con la anotación R y no afectará el promedio. Después de esa fecha el retiro no procede.",
+  "metadata": {
+   "categoria": "matrícula",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-05",
+  "title": "Escala de calificaciones",
+  "content": "Las calificaciones se expresan en una escala de 0.0 a 5.0 con un decimal. Una asignatura se aprueba con una nota definitiva mínima de 3.0. La nota definitiva se obtiene del promedio ponderado de las evaluaciones parciales y la evaluación final.",
+  "metadata": {
+   "categoria": "evaluación",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-06",
+  "title": "Asistencia a clase",
+  "content": "El estudiante debe asistir como mínimo al 80% de las sesiones de cada asignatura. Quien supere el 20% de inasistencias pierde la asignatura con nota definitiva de 0.0, salvo incapacidad médica o fuerza mayor debidamente soportada.",
+  "metadata": {
+   "categoria": "evaluación",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-07",
+  "title": "Plan de Apoyo Pedagógico (PAP)",
+  "content": "Si el promedio acumulado del estudiante es inferior a 3.2 al finalizar el período, queda en Plan de Apoyo Pedagógico (PAP): una ruta de acompañamiento con tutorías, seguimiento mensual y una carga académica reducida. Dos períodos consecutivos en PAP sin mejora conducen a la prueba académica.",
+  "metadata": {
+   "categoria": "rendimiento",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-08",
+  "title": "Prueba académica y pérdida del cupo",
+  "content": "El estudiante en prueba académica que no alcance el promedio mínimo de 3.2 al cierre del siguiente período pierde el cupo en el programa. Puede solicitar un reintegro después de dos períodos de ausencia, con aprobación del Consejo Académico de Revisión (CAR).",
+  "metadata": {
+   "categoria": "rendimiento",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-09",
+  "title": "Consejo Académico de Revisión (CAR)",
+  "content": "El Consejo Académico de Revisión (CAR) es el órgano que decide sobre reintegros, doble programa, excepciones al reglamento y apelaciones de calificaciones. Se reúne el primer miércoles de cada mes y sus decisiones se comunican por el SIA en cinco días hábiles.",
+  "metadata": {
+   "categoria": "órganos",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-10",
+  "title": "Reclamación de calificaciones",
+  "content": "El estudiante puede solicitar la revisión de una nota dentro de los tres días hábiles siguientes a su publicación, mediante el formulario F-12 dirigido al profesor. Si no hay acuerdo, puede apelar ante el director de programa y, en última instancia, ante el CAR.",
+  "metadata": {
+   "categoria": "evaluación",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-11",
+  "title": "Exámenes supletorios",
+  "content": "Quien falte a una evaluación por incapacidad médica, calamidad doméstica o representación institucional puede presentar un examen supletorio, siempre que radique el soporte dentro de los cinco días hábiles siguientes a la fecha de la evaluación.",
+  "metadata": {
+   "categoria": "evaluación",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-12",
+  "title": "Receso académico",
+  "content": "A mitad de cada período se programa una semana de receso académico de cinco días hábiles sin actividades académicas ni evaluaciones. Entre un período y otro existe el tiempo intersemestral, que dura entre cuatro y seis semanas y no genera obligaciones académicas.",
+  "metadata": {
+   "categoria": "calendario",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-13",
+  "title": "Cancelación del período",
+  "content": "El estudiante puede cancelar el período completo hasta la décima semana, presentando la solicitud en el SIA y el paz y salvo de biblioteca. La cancelación deja las asignaturas con la anotación C, conserva la calidad de estudiante por un período y no genera devolución de la matrícula pagada.",
+  "metadata": {
+   "categoria": "matrícula",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-14",
+  "title": "Devolución de matrícula",
+  "content": "Se devuelve el 80% del valor de la matrícula si la solicitud de retiro total se radica antes del inicio de clases, y el 50% si se radica durante la primera semana. Después de la primera semana no hay devoluciones. El trámite se realiza en la oficina de Tesorería.",
+  "metadata": {
+   "categoria": "finanzas",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-15",
+  "title": "Becas por mérito",
+  "content": "Los dos mejores promedios de cada programa en el período anterior reciben una beca por mérito equivalente al 30% de la matrícula siguiente. Para conservarla se debe mantener un promedio mínimo de 4.2 y no tener sanciones disciplinarias.",
+  "metadata": {
+   "categoria": "finanzas",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-16",
+  "title": "Bienestar y Apoyo Estudiantil (BAE)",
+  "content": "La dependencia de Bienestar y Apoyo Estudiantil (BAE) ofrece atención psicológica, orientación vocacional, deportes y actividades culturales sin costo para los estudiantes. Las citas de atención psicológica se solicitan por el SIA o en la oficina del BAE.",
+  "metadata": {
+   "categoria": "bienestar",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-17",
+  "title": "Comité de Integridad Estudiantil (CIE)",
+  "content": "El Comité de Integridad Estudiantil (CIE) investiga los casos de fraude, suplantación y plagio. Si se comprueba una falta, las sanciones van desde la anulación de la evaluación hasta la suspensión por un período; la reincidencia puede llevar a la expulsión.",
+  "metadata": {
+   "categoria": "integridad",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-18",
+  "title": "Plagio y herramientas de inteligencia artificial",
+  "content": "Presentar como propio un trabajo ajeno constituye plagio. El uso de herramientas de inteligencia artificial generativa en una evaluación solo está permitido cuando el profesor lo autoriza expresamente por escrito; el uso no autorizado se trata como fraude y se remite al CIE.",
+  "metadata": {
+   "categoria": "integridad",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-19",
+  "title": "Requisito de segunda lengua",
+  "content": "Para graduarse, el estudiante debe acreditar nivel B2 del Marco Común Europeo en inglés mediante examen internacional reconocido o prueba institucional. El certificado debe cargarse en el SIA antes de solicitar el grado.",
+  "metadata": {
+   "categoria": "grados",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-20",
+  "title": "Trabajo de grado",
+  "content": "El trabajo de grado se inscribe a partir del sexto semestre con un director aprobado por el programa. Tiene una duración máxima de dos períodos y se evalúa con un documento escrito y una sustentación pública ante dos jurados.",
+  "metadata": {
+   "categoria": "grados",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-21",
+  "title": "Prácticas profesionales",
+  "content": "La práctica profesional tiene una duración mínima de 16 semanas, se realiza en organizaciones con convenio vigente y requiere haber aprobado el 70% de los créditos del plan de estudios. Cuenta con un tutor académico y uno empresarial.",
+  "metadata": {
+   "categoria": "grados",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-22",
+  "title": "Homologación y transferencias",
+  "content": "Las asignaturas cursadas en otra institución pueden homologarse si el contenido coincide en al menos un 80% y la nota fue igual o superior a 3.5. La solicitud se presenta durante el PIN del primer período y la decide el director de programa.",
+  "metadata": {
+   "categoria": "matrícula",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-23",
+  "title": "Doble programa",
+  "content": "Un estudiante con promedio acumulado de 4.0 o más y que haya aprobado al menos el 40% de su primer programa puede solicitar cursar un segundo programa al tiempo. La solicitud es evaluada por el CAR.",
+  "metadata": {
+   "categoria": "matrícula",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-24",
+  "title": "Movilidad internacional",
+  "content": "Los estudiantes que hayan aprobado cuatro semestres y tengan promedio mínimo de 3.8 pueden aplicar a intercambio académico en universidades con convenio. Las asignaturas cursadas se homologan con el visto bueno del director de programa.",
+  "metadata": {
+   "categoria": "movilidad",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-25",
+  "title": "Horario de la biblioteca",
+  "content": "La biblioteca atiende de lunes a viernes de 7:00 a. m. a 9:00 p. m. y los sábados de 8:00 a. m. a 4:00 p. m. Durante la semana de exámenes finales amplía su horario hasta las 11:00 p. m. y no abre los domingos.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-26",
+  "title": "Préstamo de libros",
+  "content": "Los estudiantes pueden prestar hasta cinco libros por 15 días, renovables dos veces desde el SIA si no hay reservas. La mora genera una multa diaria y bloquea la expedición del paz y salvo.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-27",
+  "title": "Uso de laboratorios",
+  "content": "El acceso a los laboratorios requiere haber aprobado la inducción de seguridad y usar los elementos de protección indicados. Las reservas de equipos se hacen con 48 horas de anticipación y los daños por mal uso son responsabilidad del estudiante.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-28",
+  "title": "Carné estudiantil",
+  "content": "El carné estudiantil es personal e intransferible y se exige para ingresar al campus, a la biblioteca y a los exámenes. En caso de pérdida, se solicita un duplicado en Registro Académico con un costo fijo publicado en la tabla de tarifas del año.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-29",
+  "title": "Certificados académicos",
+  "content": "Los certificados de notas y de estudio se solicitan en el SIA y se generan en un plazo máximo de dos días hábiles con firma digital. Los certificados con sello físico se reclaman en Registro Académico y tienen un costo adicional.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-30",
+  "title": "Uso de recursos tecnológicos",
+  "content": "Las cuentas institucionales de correo y de la red inalámbrica son de uso académico. Está prohibido compartir las credenciales, instalar software no licenciado en los equipos de la sala de cómputo y acceder a contenidos que violen la ley.",
+  "metadata": {
+   "categoria": "servicios",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-31",
+  "title": "Propiedad intelectual",
+  "content": "Los derechos morales de los trabajos de los estudiantes pertenecen a sus autores. Cuando el trabajo se realice dentro de un proyecto financiado, los derechos patrimoniales se regulan por el contrato del proyecto firmado antes de comenzar.",
+  "metadata": {
+   "categoria": "integridad",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-32",
+  "title": "Quejas, peticiones y reclamos",
+  "content": "Las quejas se radican a través del formulario F-30 del SIA y se responden en un máximo de diez días hábiles. Si el estudiante no está conforme con la respuesta, puede solicitar su revisión al Consejo Académico de Revisión (CAR).",
+  "metadata": {
+   "categoria": "órganos",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-33",
+  "title": "Solicitud de grado",
+  "content": "El grado se solicita en el SIA con dos meses de anticipación. Para ser incluido en la ceremonia el estudiante debe haber aprobado todos los créditos, tener el paz y salvo y haber acreditado el requisito de segunda lengua. Las ceremonias se realizan en junio y diciembre.",
+  "metadata": {
+   "categoria": "grados",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-34",
+  "title": "Paz y salvo",
+  "content": "El paz y salvo certifica que el estudiante no tiene deudas con Tesorería, la biblioteca ni los laboratorios. Se solicita en el SIA y se expide en un máximo de tres días hábiles; es necesario para cancelar el período, reintegrarse y graduarse.",
+  "metadata": {
+   "categoria": "finanzas",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-35",
+  "title": "Seguro de accidentes",
+  "content": "Todos los estudiantes cuentan con un seguro de accidentes durante el período académico, que cubre eventos ocurridos dentro del campus y en actividades oficiales. Los accidentes se reportan al BAE en las siguientes 24 horas.",
+  "metadata": {
+   "categoria": "bienestar",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ },
+ {
+  "id": "R-36",
+  "title": "Cursos intensivos de verano",
+  "content": "Durante el tiempo intersemestral se ofrecen cursos intensivos para nivelar asignaturas perdidas o adelantar créditos. Se pueden inscribir máximo dos cursos, se paga por crédito y las notas obtenidas se incluyen en el promedio acumulado.",
+  "metadata": {
+   "categoria": "matrícula",
+   "fuente": "Reglamento estudiantil de la Universidad Modelo (documento ficticio para el examen)"
+  }
+ }
+]

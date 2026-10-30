@@ -1,0 +1,23 @@
+SI3003 - Evaluacion 2 - Parte II - Carpeta datos_examen/
+Profesor: Jorge Ivan Padilla Buritica - Universidad EAFIT
+
+SECCION A (YOLO) - datos de referencia preparados por el docente para este examen
+  yolo_results_scratch.csv      results.csv de Ultralytics, modelo SIN pesos preentrenados.
+  yolo_results_pretrained.csv   results.csv, fine-tuning completo desde pesos preentrenados.
+  yolo_results_freeze.csv       results.csv, preentrenado con freeze=10.
+                                (Los nombres de columna pueden traer espacios: use df.columns.str.strip().)
+  yolo_test_preds.json          {image_id: [{"box":[x1,y1,x2,y2], "cls":int, "conf":float}, ...]}
+                                Predicciones SIN NMS y con confianza baja. Pixeles, formato xyxy. image_id = "0".."29".
+  yolo_test_gt.json             {image_id: [{"box":[x1,y1,x2,y2], "cls":int}, ...]}  Cajas reales. Pixeles, xyxy.
+  Clases: 0 = balon, 1 = arquero, 2 = jugador, 3 = arbitro.
+
+SECCION C (RAG)
+  corpus_reglamento.json        Lista de {"id","title","content","metadata"}. Reglamento ficticio.
+  preguntas_eval.json           13 entradas. 12 de evaluacion ("question","gold_doc_id","tipo": sigla|parafrasis)
+                                y 1 "demo_fuera_corpus" (su respuesta NO esta en el corpus).
+  corpus_embeddings.npy         (si no viene incluido, el notebook base lo genera) Embeddings normalizados de corpus["content"], mismo orden que el corpus (N x 384).
+  question_embeddings.npy       (idem) Embeddings normalizados de cada "question", mismo orden que preguntas_eval.json (13 x 384).
+  embedding_info.json           Modelo OFICIAL de embeddings y sus parametros. Lea esto antes de la Seccion C.
+  faithfulness_cases.json       3 casos {"question","context","answer"}. Respaldo para C.4 si no tiene acceso a ningun proveedor.
+
+Recuerde: no muestre API keys en el notebook.

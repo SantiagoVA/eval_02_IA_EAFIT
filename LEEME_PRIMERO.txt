@@ -1,0 +1,19 @@
+SI3003 - Evaluacion 2 - PARTE II (aplicada)
+Profesor: Jorge Ivan Padilla Buritica - Universidad EAFIT
+
+Contenido de este paquete
+  Eval2_Parte2_enunciado.pdf         Enunciado completo, reglas, proveedores y compatibilidad.
+  Eval2_Parte2_notebook_base.ipynb   Notebook de ayuda (esqueleto). Solo trae infraestructura; usted escribe las respuestas.
+  datos_examen/                      Archivos de datos (ver datos_examen/LEEME.txt).
+
+Como empezar
+  1. Descomprima este zip.
+  2. Suba el notebook a Colab y la carpeta datos_examen/ a /content/datos_examen (o monte Drive y ajuste DATA_DIR).
+  3. Configure sus claves en Colab Secrets (NVIDIA_API_KEY, GROQ_API_KEY o HF_TOKEN). NUNCA las escriba en el notebook.
+  4. Si datos_examen/ no trae los embeddings (.npy), el notebook los genera una vez con el modelo oficial.
+
+Entrega
+  Un unico notebook ejecutado de arriba hacia abajo: Eval2_Apellido_Nombre.ipynb
+  Correo a: jipadillab@eafit.edu.co
+  Asunto:   [SI3003-Nombre_Apellido_Grupo_Eval02_practica]
+  Plazo:    hasta las 11:00 a. m.

@@ -1,0 +1,13 @@
+{
+ "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "provider": "local (sentence-transformers)",
+ "dimension": 384,
+ "normalized": true,
+ "input_type_docs": null,
+ "input_type_queries": null,
+ "prefix_docs": "",
+ "prefix_queries": "",
+ "texto_documentos": "campo content de cada documento de corpus_reglamento.json (solo content, sin title)",
+ "texto_consultas": "campo question de preguntas_eval.json",
+ "nota": "Modelo simétrico: documentos y consultas se embeben igual. Vectores normalizados (norma 1)."
+}

@@ -1,0 +1,17 @@
+[
+ {
+  "question": "¿Hasta qué semana puedo cancelar el período completo?",
+  "context": "El estudiante puede cancelar el período completo hasta la décima semana, presentando la solicitud en el SIA y el paz y salvo de biblioteca. La cancelación deja las asignaturas con la anotación C, conserva la calidad de estudiante por un período y no genera devolución de la matrícula pagada.",
+  "answer": "Puede cancelar el período completo hasta la décima semana, presentando la solicitud en el SIA y el paz y salvo de biblioteca."
+ },
+ {
+  "question": "¿Qué pasa si cancelo el período?",
+  "context": "El estudiante puede cancelar el período completo hasta la décima semana, presentando la solicitud en el SIA y el paz y salvo de biblioteca. La cancelación deja las asignaturas con la anotación C, conserva la calidad de estudiante por un período y no genera devolución de la matrícula pagada.",
+  "answer": "La cancelación conserva la calidad de estudiante por un período, deja las asignaturas con la anotación C y no genera devolución de la matrícula pagada. Además, el estudiante se reintegra automáticamente al siguiente período sin ningún trámite."
+ },
+ {
+  "question": "¿Cuál es el costo mensual del parqueadero para motocicletas?",
+  "context": "El carné estudiantil es personal e intransferible y se exige para ingresar al campus, a la biblioteca y a los exámenes. En caso de pérdida, se solicita un duplicado en Registro Académico con un costo fijo publicado en la tabla de tarifas del año.\n\nLa biblioteca atiende de lunes a viernes de 7:00 a. m. a 9:00 p. m. y los sábados de 8:00 a. m. a 4:00 p. m. Durante la semana de exámenes finales amplía su horario hasta las 11:00 p. m. y no abre los domingos.\n\nLos estudiantes pueden prestar hasta cinco libros por 15 días, renovables dos veces desde el SIA si no hay reservas. La mora genera una multa diaria y bloquea la expedición del paz y salvo.",
+  "answer": "El parqueadero de motocicletas cuesta $45.000 al mes, se exige el carné estudiantil vigente y el pago se hace en Tesorería."
+ }
+]

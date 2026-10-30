@@ -1,0 +1,66 @@
+[
+ {
+  "question": "¿Qué es el SIA?",
+  "gold_doc_id": "R-02",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Qué funciones tiene el CAR?",
+  "gold_doc_id": "R-09",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Qué es el PAP y cuándo se activa?",
+  "gold_doc_id": "R-07",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Para qué sirve el formulario F-12?",
+  "gold_doc_id": "R-10",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Qué hace el CIE?",
+  "gold_doc_id": "R-17",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Qué es el PIN?",
+  "gold_doc_id": "R-03",
+  "tipo": "sigla"
+ },
+ {
+  "question": "¿Hay una pausa de varios días en medio del curso?",
+  "gold_doc_id": "R-12",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "¿Hasta qué fecha puedo darme de baja de un curso sin consecuencias en mis notas?",
+  "gold_doc_id": "R-04",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "¿Cuántas ausencias me permiten antes de reprobar un curso?",
+  "gold_doc_id": "R-06",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "Si me enfermé el día del parcial, ¿puedo presentarlo después?",
+  "gold_doc_id": "R-11",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "¿Me pueden sancionar por hacer mi tarea con ChatGPT?",
+  "gold_doc_id": "R-18",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "Si decido no estudiar este semestre, ¿me regresan lo que pagué?",
+  "gold_doc_id": "R-14",
+  "tipo": "parafrasis"
+ },
+ {
+  "question": "¿Cuál es el costo mensual del parqueadero para motocicletas?",
+  "tipo": "demo_fuera_corpus"
+ }
+]
